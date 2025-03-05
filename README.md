@@ -62,7 +62,7 @@ Testing the webserver.
        <p>7 x 10 =  70   
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![alt text](<Screenshot 2025-03-05 103228.png>)
 
